@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VarshaDhone
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning & working on React & Redux project.
+- 🌱 I’m currently working on React & Redux project.
 - 📫 How to reach me : Linkedin
 
 <!---
